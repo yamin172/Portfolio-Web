@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 h1{
@@ -15,4 +16,25 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5%;
+    font-weight: bold;
+
+}
+.dream-area{
+    background-image: url(Images/dream-bg.png);
 }
