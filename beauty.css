@@ -27,6 +27,7 @@ section{
     height: 500px;
     padding-bottom: 150px;
     display: block;
+    overflow: hidden;
 }
 .top-banner{
     background-image: url("Images/top-banner.png");
